@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "分析灰階影像位元平面", "分析灰階影像位元平面\分析灰階影像位元平面.csproj", "{D719176F-9C6A-4B69-9FE6-4C268CD07B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D719176F-9C6A-4B69-9FE6-4C268CD07B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D719176F-9C6A-4B69-9FE6-4C268CD07B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D719176F-9C6A-4B69-9FE6-4C268CD07B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D719176F-9C6A-4B69-9FE6-4C268CD07B91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05FC53EC-5E7E-4E18-B16E-18F4B2AD6100}
+	EndGlobalSection
+EndGlobal

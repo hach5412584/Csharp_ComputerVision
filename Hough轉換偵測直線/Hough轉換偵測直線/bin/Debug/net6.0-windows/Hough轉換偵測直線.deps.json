@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hough轉換偵測直線/1.0.0": {
+        "runtime": {
+          "Hough轉換偵測直線.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hough轉換偵測直線/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

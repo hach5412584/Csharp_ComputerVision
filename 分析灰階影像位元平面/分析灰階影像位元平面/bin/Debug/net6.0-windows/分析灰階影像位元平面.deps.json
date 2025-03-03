@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "分析灰階影像位元平面/1.0.0": {
+        "runtime": {
+          "分析灰階影像位元平面.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "分析灰階影像位元平面/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

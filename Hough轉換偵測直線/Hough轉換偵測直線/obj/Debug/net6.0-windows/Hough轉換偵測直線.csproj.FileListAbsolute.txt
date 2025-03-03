@@ -1,0 +1,17 @@
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\bin\Debug\net6.0-windows\Hough轉換偵測直線.exe
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\bin\Debug\net6.0-windows\Hough轉換偵測直線.deps.json
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\bin\Debug\net6.0-windows\Hough轉換偵測直線.runtimeconfig.json
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\bin\Debug\net6.0-windows\Hough轉換偵測直線.dll
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\bin\Debug\net6.0-windows\Hough轉換偵測直線.pdb
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.csproj.AssemblyReference.cache
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.Form1.resources
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.csproj.GenerateResource.cache
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.GeneratedMSBuildEditorConfig.editorconfig
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.AssemblyInfoInputs.cache
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.AssemblyInfo.cs
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.csproj.CoreCompileInputs.cache
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.dll
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\refint\Hough轉換偵測直線.dll
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.pdb
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\Hough轉換偵測直線.genruntimeconfig.cache
+D:\南台\VS\C#\Hough轉換偵測直線\Hough轉換偵測直線\obj\Debug\net6.0-windows\ref\Hough轉換偵測直線.dll

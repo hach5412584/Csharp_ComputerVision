@@ -1,0 +1,17 @@
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\bin\Debug\net6.0-windows\分析灰階影像位元平面.exe
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\bin\Debug\net6.0-windows\分析灰階影像位元平面.deps.json
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\bin\Debug\net6.0-windows\分析灰階影像位元平面.runtimeconfig.json
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\bin\Debug\net6.0-windows\分析灰階影像位元平面.dll
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\bin\Debug\net6.0-windows\分析灰階影像位元平面.pdb
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.csproj.AssemblyReference.cache
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.Form1.resources
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.csproj.GenerateResource.cache
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.GeneratedMSBuildEditorConfig.editorconfig
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.AssemblyInfoInputs.cache
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.AssemblyInfo.cs
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.csproj.CoreCompileInputs.cache
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.dll
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\refint\分析灰階影像位元平面.dll
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.pdb
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\分析灰階影像位元平面.genruntimeconfig.cache
+D:\南台\VS\C#\分析灰階影像位元平面\分析灰階影像位元平面\obj\Debug\net6.0-windows\ref\分析灰階影像位元平面.dll
