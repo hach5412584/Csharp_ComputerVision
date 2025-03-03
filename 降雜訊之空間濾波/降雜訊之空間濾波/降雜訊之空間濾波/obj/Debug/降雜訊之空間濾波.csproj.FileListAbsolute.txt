@@ -1,0 +1,9 @@
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\bin\Debug\降雜訊之空間濾波.exe.config
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\bin\Debug\降雜訊之空間濾波.exe
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\bin\Debug\降雜訊之空間濾波.pdb
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\obj\Debug\降雜訊之空間濾波.csprojResolveAssemblyReference.cache
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\obj\Debug\降雜訊之空間濾波.Form1.resources
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\obj\Debug\降雜訊之空間濾波.Properties.Resources.resources
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\obj\Debug\降雜訊之空間濾波.csproj.GenerateResource.Cache
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\obj\Debug\降雜訊之空間濾波.exe
+C:\Users\stust\Desktop\降雜訊之空間濾波\降雜訊之空間濾波\obj\Debug\降雜訊之空間濾波.pdb

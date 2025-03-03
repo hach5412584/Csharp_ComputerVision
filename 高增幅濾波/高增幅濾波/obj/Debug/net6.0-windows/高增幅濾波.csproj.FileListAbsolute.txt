@@ -1,0 +1,17 @@
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\bin\Debug\net6.0-windows\高增幅濾波.exe
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\bin\Debug\net6.0-windows\高增幅濾波.deps.json
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\bin\Debug\net6.0-windows\高增幅濾波.runtimeconfig.json
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\bin\Debug\net6.0-windows\高增幅濾波.dll
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\bin\Debug\net6.0-windows\高增幅濾波.pdb
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.csproj.AssemblyReference.cache
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.Form1.resources
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.csproj.GenerateResource.cache
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.GeneratedMSBuildEditorConfig.editorconfig
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.AssemblyInfoInputs.cache
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.AssemblyInfo.cs
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.csproj.CoreCompileInputs.cache
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.dll
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\refint\高增幅濾波.dll
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.pdb
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\高增幅濾波.genruntimeconfig.cache
+D:\南台\VS\C#\高增幅濾波\高增幅濾波\obj\Debug\net6.0-windows\ref\高增幅濾波.dll
