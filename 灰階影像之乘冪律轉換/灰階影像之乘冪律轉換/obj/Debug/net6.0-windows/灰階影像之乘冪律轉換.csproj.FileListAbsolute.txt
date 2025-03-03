@@ -1,0 +1,17 @@
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\bin\Debug\net6.0-windows\灰階影像之乘冪律轉換.exe
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\bin\Debug\net6.0-windows\灰階影像之乘冪律轉換.deps.json
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\bin\Debug\net6.0-windows\灰階影像之乘冪律轉換.runtimeconfig.json
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\bin\Debug\net6.0-windows\灰階影像之乘冪律轉換.dll
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\bin\Debug\net6.0-windows\灰階影像之乘冪律轉換.pdb
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.csproj.AssemblyReference.cache
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.Form1.resources
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.csproj.GenerateResource.cache
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.GeneratedMSBuildEditorConfig.editorconfig
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.AssemblyInfoInputs.cache
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.AssemblyInfo.cs
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.csproj.CoreCompileInputs.cache
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.dll
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\refint\灰階影像之乘冪律轉換.dll
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.pdb
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\灰階影像之乘冪律轉換.genruntimeconfig.cache
+D:\南台\VS\C#\灰階影像之乘冪律轉換\灰階影像之乘冪律轉換\obj\Debug\net6.0-windows\ref\灰階影像之乘冪律轉換.dll

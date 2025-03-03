@@ -1,0 +1,17 @@
+D:\南台\VS\C#\直方圖等化\直方圖等化\bin\Debug\net6.0-windows\直方圖等化.exe
+D:\南台\VS\C#\直方圖等化\直方圖等化\bin\Debug\net6.0-windows\直方圖等化.deps.json
+D:\南台\VS\C#\直方圖等化\直方圖等化\bin\Debug\net6.0-windows\直方圖等化.runtimeconfig.json
+D:\南台\VS\C#\直方圖等化\直方圖等化\bin\Debug\net6.0-windows\直方圖等化.dll
+D:\南台\VS\C#\直方圖等化\直方圖等化\bin\Debug\net6.0-windows\直方圖等化.pdb
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.csproj.AssemblyReference.cache
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.Form1.resources
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.csproj.GenerateResource.cache
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.GeneratedMSBuildEditorConfig.editorconfig
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.AssemblyInfoInputs.cache
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.AssemblyInfo.cs
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.csproj.CoreCompileInputs.cache
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.dll
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\refint\直方圖等化.dll
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.pdb
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\直方圖等化.genruntimeconfig.cache
+D:\南台\VS\C#\直方圖等化\直方圖等化\obj\Debug\net6.0-windows\ref\直方圖等化.dll
